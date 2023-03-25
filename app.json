@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "vanLife",
+    "slug": "vanLife",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "vanLife"
+}
